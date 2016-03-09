@@ -23,9 +23,9 @@ public class Config extends JDialog {
 	
 	static boolean gas = false;
 	static boolean humedad = false;
-	static String correoDest = "pablo.gonzalez.alvarez1@gmail.com";
-	static String correoPropio = "berryteamleon@gmail.com";
-	static String contra = "hackforgood";
+	static String correoDest = "";
+	static String correoPropio = "";
+	static String contra = "";
 	private JTextField textFieldDestino;
 
 	/**
